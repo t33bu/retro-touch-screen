@@ -4,6 +4,9 @@
  * Created on: 1.12.2018
  * Author: Teemu Leppänen (tjlepp@gmail.com)
  *
+ * The idea for low-pass filter is from here:
+ * http://sleepingelephant.com/denial/wiki/index.php?title=Paddle
+ *
  * This work is licensed under Creative Commons
  * Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0)
  * https://creativecommons.org/licenses/by-nc-sa/4.0/
