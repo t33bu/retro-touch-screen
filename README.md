@@ -6,9 +6,11 @@ In this project, [Nextion HMI](https://nextion.itead.cc/) 2.4-inch touch display
 The technical details of the project will be first published in the Finnish computer culture magazine [Skrolli](https://www.skrolli.fi/en/) in forthcoming issue 2018.4, and later in this repository.
 
 C64 version playing Clowns
+
 ![C64 version playing Clowns](https://github.com/t33bu/retro-touch-screen/blob/master/c64_clowns.jpg)
 
 Touch display for VIC-20
+
 ![VIC-20 touch screen](https://github.com/t33bu/retro-touch-screen/blob/master/vic20_display.jpg)
 
 This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0, https://creativecommons.org/licenses/by-nc-sa/4.0/)
