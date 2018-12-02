@@ -13,5 +13,7 @@ Touch display for VIC-20
 
 ![VIC-20 touch screen](https://github.com/t33bu/retro-touch-screen/blob/master/vic20_display.jpg)
 
+Please note: The design could have more potentiometers in series. The C64/VIC motherboards specify 470kohm potentiometer for paddles, but the above design uses 200k. The closer to 470k the total resistance is, the more accurate the device is. 
+
 This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0, https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
